@@ -10,4 +10,4 @@ dependence and disease status as model M(SRC0). We investigate model performance
 
 "Mpsi0_high.R", "Mpsi0_low.R" -  M(𝜓0) at high and low density effects respectively, and
 
-"Mscr0_high.R", "Mpsi0_low.R" -  M(SRC0)) at high and low density effects respectively
+"SCR0_high.R", "SCR0_low.R" -  M(SRC0)) at high and low density effects respectively
