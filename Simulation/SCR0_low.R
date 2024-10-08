@@ -305,24 +305,9 @@ simKOSCR.fn <- function(phi, gamma,lambda,delta,beta0, beta1, sp1,sp2,sp3, se1,s
 
 
 # Load data
-# load("C:/Users/fke/OneDrive - Vogelwarte/SCR/Revisions/Data/id_oscrdata_T2014_2018.Rdata")
-# #load("C:/Users/fke/OneDrive - Vogelwarte/SCR/Revisions/Data/dcat_oscrdata_T2014_2018.Rdata")
-# #load("C:/Users/fke/OneDrive - Vogelwarte/SCR/Revisions/Data/disease_dpp_data_2014_2018.RData")
-# load("C:/Users/fke/OneDrive - Vogelwarte/SCR/Revisions/simBadgerHabitatGrid.Rdata")
-# load("C:/Users/fke/OneDrive - Vogelwarte/SCR/Revisions/simrescale_traplocs_2014_2018.Rdata")
-
-
-
-#  load("~/SCR_revisions/id_oscrdata_T2014_2018.Rdata")
-# # load("~/SCR_revisions/dcat_oscrdata_T2014_2018.Rdata")
-# # load("~/SCR_revisions/disease_dpp_data_2014_2018.RData")
-#  load("~/SCR_revisions/BadgerHabitatGrid.Rdata")
-#  load("~/SCR_revisions/rescale_traplocs_2014_2018.Rdata")
-
-# noether
-load("~/SCR/id_oscrdata_T2014_2018.Rdata")
-load("~/SCR/simBadgerHabitatGrid.Rdata")
-load("~/SCR/simrescale_traplocs_2014_2018.Rdata")
+load("~/data/id_oscrdata_T2014_2018.Rdata")
+load("~/data/simBadgerHabitatGrid.Rdata")
+load("~/data/simrescale_traplocs_2014_2018.Rdata")
 
 M = 500
 #nind = ntot = 259
