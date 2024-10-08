@@ -2,7 +2,9 @@ This is the repository for the paper:
 
 
 Modelling disease dynamics from spatially explicit
-capture-recapture data
+capture-recapture data. 
+
+Fabian R. Ketwaroo | Eleni Matechou | Matthew Silk | Richard Delahay
 
 
 Abstract:
